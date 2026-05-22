@@ -23,3 +23,19 @@ Spam detection using Logistic Regression built from scratch with NumPy.
 - Sigmoid function for probability estimation
 - Gradient Descent for weight optimization
 - Class weights to handle imbalanced data (86% ham / 14% spam)
+
+## 🚀 Installation
+
+```bash
+pip install -r requirements.txt
+```
+
+## 📓 Run
+
+```bash
+jupyter notebook spamdetection.ipynb
+```
+
+## 📊 Dataset
+
+https://archive.ics.uci.edu/dataset/143/sms+spam+collection
