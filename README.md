@@ -38,4 +38,4 @@ jupyter notebook spamdetection.ipynb
 
 ## 📊 Dataset
 
-https://archive.ics.uci.edu/dataset/143/sms+spam+collection
+https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
